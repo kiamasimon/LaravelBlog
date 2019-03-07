@@ -1,29 +1,36 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-# Developer's Insight [![Build Status](https://travis-ci.com/kiamasimon/DevelopersInsight.svg?branch=master)](https://travis-ci.com/kiamasimon/DevelopersInsight)
+# Laravel Blog 
 
-## Advanced Django Blog Sample 
-This is a beginer level project, illustrating ther basic of creating a blog and the various parts that it should include
+## Simple Laravel Blog Sample 
+This is a beginer level project, illustrating ther basic of creating a blog and the various parts that it should include.
 
 ### Getting Started
 This project was implemented in the windows platform
 For this project to function as intended, you must having the following installed on your machine;
 
-    1) python 3.6
-      Get it from here::https://www.python.org/downloads/
-    2) Django 
-      Instructions from::https://docs.djangoproject.com/en/2.1/howto/windows/
-    
+    1. Server - Lamp/wamp/xammp
+    2. Composer installed global.
+        Also make sure that the following are installed for laravel 5.7:
+            1) PHP >= 7.1.3
+            2) OpenSSL PHP Extension
+            3) PDO PHP Extension
+            4) Mbstring PHP Extension
+            5) Tokenizer PHP Extension
+            6) XML PHP Extension
+            7) Ctype PHP Extension
+            8) JSON PHP Extension
+            9) BCMath PHP Extension
+            
 #### Prequisites
   1) Python has to be accessible globally 
   2) You must have created a virtual environment where the test server is to be run from.
   
 #### Installing
 1) Use git to clone the project to your local computer::https://github.com/rickrickysimpsoms/DjangoBlog.git.
-2) Download it directly from the reopsitory.
-3) Start your virtual environment.
-4) Navigate to project folder where manage.py is located.
-5) Run the command python manage.py runserver to start the test server and navigate to::http://localhost:8000/
+2) Download it directly from the repository.
+3) Navigate to project folder where artisan file is located.
+5) Run the command php artisan serve to start the test server and navigate to::http://localhost:8000/
     on your browser of choice.
     
 #### Authors
