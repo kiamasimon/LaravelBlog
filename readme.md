@@ -9,7 +9,7 @@ This is a beginer level project, illustrating ther basic of creating a blog and 
 This project was implemented in the windows platform
 For this project to function as intended, you must having the following installed on your machine;
 
-    1. Server - Lamp/wamp/xammp
+    1. Server - Lamp/wamp/xammp, get it from:: https://www.apachefriends.org/download.html
     2. Composer installed global.
         Also make sure that the following are installed for laravel 5.7:
             1) PHP >= 7.1.3
