@@ -23,11 +23,11 @@ For this project to function as intended, you must having the following installe
             9) BCMath PHP Extension
             
 #### Prequisites
-  1) Python has to be accessible globally 
-  2) You must have created a virtual environment where the test server is to be run from.
+  1) Composer installed global.
+  2) If you are using a windows based computer, you must have basic knowledge on running commands on cmd,shell and windows file navigation 
   
 #### Installing
-1) Use git to clone the project to your local computer::https://github.com/rickrickysimpsoms/DjangoBlog.git.
+1) Use git to clone the project to your local computer url:: https://github.com/kiamasimon/LaravelBlog
 2) Download it directly from the repository.
 3) Navigate to project folder where artisan file is located.
 5) Run the command php artisan serve to start the test server and navigate to::http://localhost:8000/
